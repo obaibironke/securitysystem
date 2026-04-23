@@ -46,13 +46,14 @@ XIAO ESP32-S3			7.49
 
 Images:
 
-<img width="1125" height="683" alt="image" src="https://github.com/user-attachments/assets/c3a4fc67-5c56-49d5-91d9-ab94b2c58fc1" />
+<img width="876" height="565" alt="image" src="https://github.com/user-attachments/assets/176c0bf5-de1d-439b-a70b-26c5f3bd0718" />
 
 <img width="791" height="562" alt="image" src="https://github.com/user-attachments/assets/7e1d0820-4f1b-4016-a3f8-51a14ed01b8e" />
 
 <img width="530" height="544" alt="image" src="https://github.com/user-attachments/assets/d4010b5f-89dd-4224-83a4-fb4b6594ef88" />
 
-<img width="382" height="408" alt="image" src="https://github.com/user-attachments/assets/10ee297f-48f5-4748-ae0f-ab51e83e8d7a" />
+<img width="712" height="743" alt="image" src="https://github.com/user-attachments/assets/a821f635-fbf2-4413-9f0e-e756a9e56249" />
+
 
 
 
