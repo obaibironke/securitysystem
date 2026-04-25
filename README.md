@@ -28,20 +28,7 @@ Motion timeout to prevent spam detection
 
 BOM:
 
-Name	Purpose	Quantity	Total Cost (USD)
-AMS1117-3.3 SOT-223			1.89
-10ï¿½F electrolytic caps			3.84
-Ceramic caps			1.13
-Slide switch			1.57
-2.54mm pin headers			1.33
-2-pin screw terminal			2.57
-AAA battery holder			2.15
-MAX7219 8-digit display			0.73
-PIR sensor			1.89
-PCB			2
-XIAO ESP32-S3			7.49
-<img width="385" height="349" alt="image" src="https://github.com/user-attachments/assets/ca06b7bf-8076-458d-a723-27c29b009f4d" />
-
+<img width="584" height="408" alt="image" src="https://github.com/user-attachments/assets/0e73b356-8a5d-4e1c-8e20-e849bc25107f" />
 
 
 Images:
