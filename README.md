@@ -1,5 +1,5 @@
 # securitysystem
-A custom motion sensor triggered security system that alerts me whenever someone enters my room. I made it because my sister kept entering myroom without me knowing so now I can catch her.
+A custom motion sensor triggered security system that alerts me whenever someone enters my room. I made it because my sister kept entering myroom without me knowing so now I can catch her. It detects motion using a PIR sensor that will be soldered onto the PCB directly.
 
 Hardware:
 
