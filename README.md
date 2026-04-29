@@ -1,5 +1,5 @@
 # securitysystem
-A custom motion sensor triggered security system that alerts me whenever someone enters my room. I made it because my sister kept entering myroom without me knowing so now I can catch her. It detects motion using a PIR sensor that will be soldered onto the PCB directly.
+A custom motion sensor triggered security system that alerts me whenever someone enters my room. I made it because my sister kept entering myroom without me knowing so now I can catch her. It detects motion using a PIR sensor that will be soldered onto the PCB directly. It then send this information to the ESP32-S3 so that it can be logged onto the Google Sheet as well as be sent as a Telegram message. The MAX7219 display is just to show how many times motion has been detected since the system was last armed.
 
 Hardware:
 
@@ -35,9 +35,9 @@ Images:
 
 <img width="876" height="565" alt="image" src="https://github.com/user-attachments/assets/176c0bf5-de1d-439b-a70b-26c5f3bd0718" />
 
-<img width="923" height="700" alt="image" src="https://github.com/user-attachments/assets/7c5bf5ab-910c-42fd-bebc-ce68bf8178d0" />
+<img width="994" height="907" alt="image" src="https://github.com/user-attachments/assets/3d4e9b52-24e2-40a0-92bb-411cd098513c" />
 
-<img width="731" height="660" alt="image" src="https://github.com/user-attachments/assets/5abf99ac-126d-4a1f-878a-35f364184533" />
+<img width="846" height="856" alt="image" src="https://github.com/user-attachments/assets/e89aedff-0a8a-407d-8035-6f33f6c79b10" />
 
 <img width="430" height="674" alt="image" src="https://github.com/user-attachments/assets/dd42b169-50b9-40e8-aedd-0ba694a99438" />
 
